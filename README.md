@@ -3,11 +3,11 @@
 </h1>
 <div>
     <h3>Personal Stuff</h3>
-    <ul>
-        <li>👩🏻‍💻 Siswa dengan ekspertise Rekayasa Perangkat Lunak<a href="https://www.smktelkom-mlg.sch.id/" target="blank"> SMKTelkomMalang</a>.</li>
-        <li>📱 disekolah saya belajar <b>Web Development</b>.</li>
-	<li></li>
-    </ul>
+   	<p>
+		Siswa SMK Telkom Malang jurusan Rekayasa Perangkat Lunak yang memiliki spesialisasi dalam pengembangan website menggunakan Node.js dan React.js. Dengan minat yang mendalam dalam teknologi, saya terus mengasah keterampilan saya melalui berbagai proyek dan pelatihan.
+
+Saya juga memiliki pengalaman kepemimpinan sebagai Ketua Telkom School Basketball Club, di mana saya mengembangkan kemampuan dalam manajemen tim dan organisasi acara. Sebagai pengurus OSIS, saya terlibat aktif dalam berbagai kegiatan sekolah yang memperluas pengalaman saya dalam bekerja sama tim dan mengelola event
+</p>
 </div>
 
 <div>
