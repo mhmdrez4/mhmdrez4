@@ -6,7 +6,7 @@
     <ul>
         <li>👩🏻‍💻 Siswa dengan ekspertise Rekayasa Perangkat Lunak<a href="https://www.smktelkom-mlg.sch.id/" target="blank"> SMKTelkomMalang</a>.</li>
         <li>📱 disekolah saya belajar <b>Web Development</b>.</li>
-	<li>Mak doain anakmu ini ya</li>
+	<li></li>
     </ul>
 </div>
 
