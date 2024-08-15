@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7EFE5&size=35&width=500&height=70&duration=3600&lines=mak+aku+ngoding;+aku+anakmu+Mohamad+Reza;+Bismillah+sukses;" />
 </h1>
 <div>
-    <h3>Personal Profile</h3>
+    <h3>Tentang Gua</h3>
    	<p>
 		Siswa SMK Telkom Malang jurusan Rekayasa Perangkat Lunak yang memiliki spesialisasi dalam pengembangan website menggunakan Node.js dan React.js. Dengan minat yang mendalam dalam teknologi, saya terus mengasah keterampilan saya melalui berbagai proyek dan pelatihan.
 
@@ -11,7 +11,7 @@ Saya juga memiliki pengalaman kepemimpinan sebagai Ketua Telkom School Basketbal
 </div>
 
 <div>
-    <h3 align="left">Get in touch</h3>
+    <h3 align="left">Lihat Aku</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/mohammad-reza" target="blank">
 		<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohamad Reza" height="45px"/>
@@ -26,7 +26,7 @@ Saya juga memiliki pengalaman kepemimpinan sebagai Ketua Telkom School Basketbal
 </div>
 
 <div>
-	<h3 align="left">Languages and Tools</h3>
+	<h3 align="left">Aku bisa cuma iki</h3>
 	<p align="left">
 		<a href="https://dev.java/">
 			<img src="https://skillicons.dev/icons?i=java" height="40px"/>
