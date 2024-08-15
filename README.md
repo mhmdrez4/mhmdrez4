@@ -6,7 +6,7 @@
     <ul>
         <li>👩🏻‍💻 Siswa dengan ekspertise Rekayasa Perangkat Lunak<a href="https://www.smktelkom-mlg.sch.id/" target="blank">@SMKTelkomMalang</a>.</li>
         <li>📱 disekolah saya belajar <b>Web Development</b>.</li>
-        <li>📫 hubungi aku <a href="mailto:mohmdreza097@gmail.com" target="blank">mohmdreza097@gmail.com</a></li>
+	<li>Mak doain anakmu ini ya</li>
     </ul>
 </div>
 
@@ -47,16 +47,16 @@
 		<a href="https://purecss.io/">
 			<img src="https://skillicons.dev/icons?i=css" height="40px"/>
 		</a>
-    <a href="https://purecss.io/">
+    		<a href="https://react.dev/">
 			<img src="https://skillicons.dev/icons?i=react" height="40px"/>
 		</a>
-    <a href="https://purecss.io/">
+    		<a href="https://www.typescriptlang.org/">
 			<img src="https://skillicons.dev/icons?i=ts" height="40px"/>
 		</a>
-    <a href="https://nodejs.org/id">
+    		<a href="https://nodejs.org/id">
 			<img src="https://skillicons.dev/icons?i=nodejs" height="40px"/>
 		</a>
-    <a href="https://purecss.io/">
+    		<a href="https://www.postman.com/">
 			<img src="https://skillicons.dev/icons?i=postman" height="40px"/>
 		</a>
 	</p>
