@@ -24,7 +24,6 @@ Saya juga memiliki pengalaman kepemimpinan sebagai Ketua Telkom School Basketbal
 	</a>&nbsp;
 </p>
 </div>
-<br/>
 
 <div>
 	<h3 align="left">Languages and Tools</h3>
