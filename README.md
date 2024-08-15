@@ -1,8 +1,8 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7EFE5&size=35&width=500&height=70&duration=3600&lines=mak+aku+ngoding;+aku+anakmu+Mohamad+Reza;+Bismillah+ya+mak;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7EFE5&size=35&width=500&height=70&duration=3600&lines=mak+aku+ngoding;+aku+anakmu+Mohamad+Reza;+Bismillah+sukses;" />
 </h1>
 <div>
-    <h3>Personal Stuff</h3>
+    <h3>Personal Profile</h3>
    	<p>
 		Siswa SMK Telkom Malang jurusan Rekayasa Perangkat Lunak yang memiliki spesialisasi dalam pengembangan website menggunakan Node.js dan React.js. Dengan minat yang mendalam dalam teknologi, saya terus mengasah keterampilan saya melalui berbagai proyek dan pelatihan.
 
