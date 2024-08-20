@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7EFE5&size=35&width=500&height=70&duration=3600&lines=mak+aku+ngoding;+aku+anakmu+Mohamad+Reza;+Bismillah+sukses;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=55679C&size=35&width=500&height=70&duration=3600&lines=mak+aku+ngoding;+aku+anakmu+Mohamad+Reza;+Bismillah+sukses;" />
 </h1>
 <div>
     <h3>Tentang Gua</h3>
