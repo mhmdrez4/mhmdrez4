@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=55679C&size=35&width=500&height=70&duration=3600&lines=Hallo+saya+Reza;Hallo+saya+Reza;" />
 </h1>
 <div>
-    <h3>Tentang Gua</h3>
+    <h3>Tentang saya</h3>
    	<p>
 		Siswa SMK Telkom Malang jurusan Rekayasa Perangkat Lunak yang memiliki spesialisasi dalam pengembangan website menggunakan Node.js dan React.js. Dengan minat yang mendalam dalam teknologi, saya terus mengasah keterampilan saya melalui berbagai proyek dan pelatihan.
 
