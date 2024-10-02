@@ -11,7 +11,7 @@ Saya juga memiliki pengalaman kepemimpinan sebagai Ketua Telkom School Basketbal
 </div>
 
 <div>
-    <h3 align="left">Lihat Aku</h3>
+    <h3 align="left" style="font-bold">cek dibawah ini jangan lupa follow</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/mohammad-reza" target="blank">
 		<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohamad Reza" height="45px"/>
@@ -26,7 +26,7 @@ Saya juga memiliki pengalaman kepemimpinan sebagai Ketua Telkom School Basketbal
 </div>
 
 <div>
-	<h3 align="left">Aku bisa cuma iki</h3>
+	<h3 align="left">aku iso</h3>
 	<p align="left">
 		<a href="https://dev.java/">
 			<img src="https://skillicons.dev/icons?i=java" height="40px"/>
